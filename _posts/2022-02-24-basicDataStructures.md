@@ -1,7 +1,7 @@
 ---
 Layout:
-Title:	"Getting started"
-Date:	2018-02-06
+Title:	"Basic Data Structures"
+Date:	2022-02-24
 Categories:
 ---
 # introduction
