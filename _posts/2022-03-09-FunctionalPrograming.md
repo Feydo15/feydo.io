@@ -37,7 +37,7 @@ return title
 Well in this case we took our input which is a string with spaces and title-cased words
 then returned our output which is a string with the spaces between words replaced by a hyphen (-)
 our function also turns our output to all lower-case letters
-using <[.toLowerCase()]>
+using <[.toLowerCase()]>.
 
 # conclusion
 
