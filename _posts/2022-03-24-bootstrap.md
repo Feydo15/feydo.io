@@ -46,4 +46,4 @@ Note: As a reminder, checkboxes are input elements of type checkbox.
 
  # conclusion
  bootstrap makes styling easier and it helps with the responsiveness of out elements which we had to 
- do them manually on css
+ do them manually on css.
