@@ -1,6 +1,6 @@
 ---
 Layout:
-Title: "jsFunc"
+Title: "create a function that use multiple methods"
 Date: 2022-06-09
 Categories:
 ---
