@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "Reducers and rules of Reducers in Redux"
-Date: 2022-06-17
+Date: 2022-06-28
 Categories:
 ---
 
