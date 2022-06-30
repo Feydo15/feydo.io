@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "ReadMe of the react-redux app"
-Date: 2022-06-28
+Date: 2022-06-29
 Categories:
 ---
 
