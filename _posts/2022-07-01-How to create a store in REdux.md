@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "How to create a store in redux"
-Date: 2022-06-29
+Date: 2022-07-01
 Categories:
 ---
 
@@ -11,7 +11,7 @@ redux.
 The store is an object that enforces the one-way data flow model that Redux is built upon. 
 # body
 
-*************************************Create a Redux Store****************************************
+Create a Redux Store
 
 As you know, 
 every Redux application uses a reducer function that describes which actions can update the state
