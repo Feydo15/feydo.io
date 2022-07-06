@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "Immutable Updates and Pure Functions"
-Date: 2022-07-01
+Date: 2022-07-05
 Categories:
 ---
 

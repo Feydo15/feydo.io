@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "Dispatch Actions to the Store"
-Date: 2022-07-01
+Date: 2022-07-04
 Categories:
 ---
 
