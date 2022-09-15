@@ -7,8 +7,7 @@ Categories:
 
 # Introduction
 today i have learned about useLocalStorage Hook
-well Hooks are a feature in React that allow you use state and other React features without writing classes. This website provides easy to understand code examples to help you learn how hooks work and inspire you to take advantage of them in your next project.
-
+well Hooks are a feature in React that allow you use state and other React features without writing classes.
 # body
 
 useLocalStorage hook
