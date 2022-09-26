@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: "React Props"
-Date: 2022-09-21
+Date: 2022-09-26
 Categories:
 ---
 
